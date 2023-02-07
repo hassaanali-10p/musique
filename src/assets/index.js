@@ -1,7 +1,4 @@
-import loader from './loader.svg';
-import logo from './logo.svg';
+import loader from "./loader.svg";
+import musique from "./musique.png";
 
-export {
-  logo,
-  loader,
-};
+export { musique, loader };
